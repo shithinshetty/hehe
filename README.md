@@ -1,5 +1,6 @@
 # hehe
 Justajokr
+yes true
 #include<stdio.h>
 int main() {
       double first, second, temp;
